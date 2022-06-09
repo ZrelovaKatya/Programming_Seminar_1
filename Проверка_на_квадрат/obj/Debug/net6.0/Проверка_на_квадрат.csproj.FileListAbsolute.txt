@@ -1,0 +1,15 @@
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\obj\Debug\net6.0\Проверка_на_квадрат.csproj.AssemblyReference.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\obj\Debug\net6.0\Проверка_на_квадрат.GeneratedMSBuildEditorConfig.editorconfig
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\obj\Debug\net6.0\Проверка_на_квадрат.AssemblyInfoInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\obj\Debug\net6.0\Проверка_на_квадрат.AssemblyInfo.cs
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\obj\Debug\net6.0\Проверка_на_квадрат.csproj.CoreCompileInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\bin\Debug\net6.0\Проверка_на_квадрат.exe
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\bin\Debug\net6.0\Проверка_на_квадрат.deps.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\bin\Debug\net6.0\Проверка_на_квадрат.runtimeconfig.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\bin\Debug\net6.0\Проверка_на_квадрат.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\bin\Debug\net6.0\Проверка_на_квадрат.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\obj\Debug\net6.0\Проверка_на_квадрат.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\obj\Debug\net6.0\refint\Проверка_на_квадрат.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\obj\Debug\net6.0\Проверка_на_квадрат.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\obj\Debug\net6.0\Проверка_на_квадрат.genruntimeconfig.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_1\Проверка_на_квадрат\obj\Debug\net6.0\ref\Проверка_на_квадрат.dll
